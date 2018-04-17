@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="./images/teaser.png" width="80%"/>
-<a href="https://www.youtube.com/watch?v=d7OXb2sqoec">
+<a href="https://www.youtube.com/watch?v=d7OXb2sqoec" span>
    <img src="./images/youtube-thumbnail.png" width="90%"/>
 </a>
 </p>
@@ -274,9 +274,10 @@ I will release all the data and code ASAP. <(_ _)>
      <td align="center">-</th>
      <th>1433</th>
   </tr>
+  <tr>
+    <td colspan=7> Our model trained on HDR images ranked the first and CLHE was the runner-up. When comparing our model with CLHE, 81% of users (323 among 400) preferred our results. </td>
+  </tr>
 </table>
-
-Our model trained on HDR images ranked the first and CLHE was the runner-up. When comparing our model with CLHE, 81% of users (323 among 400) preferred our results.
 
 ### Other applications of global U-Net, A-WGAN and iBN
 This paper proposes three improvements: global U-Net, adaptive WGAN (A-WGAN) and individual batch normalization (iBN). They generally improve results; and for some applications, the improvement is sufficient for crossing the bar and leading to success. We have applied them to some other applications.
