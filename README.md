@@ -2,21 +2,20 @@
 
 ### [[Demo website]](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/) [[Youtube]](https://www.youtube.com/watch?v=d7OXb2sqoec) [[Paper]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf) [[Supplementary]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf)
 
-<center>
+<p align="center">
 <img src="./images/teaser.png" width="80%"/>
-</center>
-<center>
-[![Demo video](./images/youtube-thumbnail.png)](https://www.youtube.com/watch?v=d7OXb2sqoec)
-</center>
-
+<a href="https://www.youtube.com/watch?v=d7OXb2sqoec">
+   <img src="./images/youtube-thumbnail.png" width="90%"/>
+</a>
+</p>
 TensorFlow implementation of the CVPR 2018 spotlight paper, Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs. If you use any code or data from our work, please cite our paper.
 
 I will release all the data and code ASAP. <(_ _)>
 
 ### Results
 
-<center>
-
+<p align="center"></p>
+	
 | Method | Description |
 | :---: | --- |
 | Label | Retouched by photographer from MIT-Adobe 5K dataset [1] |
@@ -29,7 +28,7 @@ I will release all the data and code ASAP. <(_ _)>
 | NPEA | Heuristic method from [5] |
 | FLLF | Heuristic method from [6] |
 
-</center>
+<p></p>
 
 <table>
   <tr>
@@ -134,88 +133,88 @@ I will release all the data and code ASAP. <(_ _)>
     <th>CLHE</th>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0022.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0022.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0022.png"/></td>
-    <td><img src="./images/internet/CLHE/b0022.png"/></td>
+    <td><img src="./images/Internet/Input/b0022.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0022.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0022.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0022.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0004.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0004.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0004.png"/></td>
-    <td><img src="./images/internet/CLHE/b0004.png"/></td>
+    <td><img src="./images/Internet/Input/b0004.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0004.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0004.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0004.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0003.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0003.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0003.png"/></td>
-    <td><img src="./images/internet/CLHE/b0003.png"/></td>
+    <td><img src="./images/Internet/Input/b0003.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0003.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0003.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0003.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0034.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0034.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0034.png"/></td>
-    <td><img src="./images/internet/CLHE/b0034.png"/></td>
+    <td><img src="./images/Internet/Input/b0034.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0034.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0034.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0034.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0015.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0015.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0015.png"/></td>
-    <td><img src="./images/internet/CLHE/b0015.png"/></td>
+    <td><img src="./images/Internet/Input/b0015.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0015.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0015.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0015.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0002.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0002.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0002.png"/></td>
-    <td><img src="./images/internet/CLHE/b0002.png"/></td>
+    <td><img src="./images/Internet/Input/b0002.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0002.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0002.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0002.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0005.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0005.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0005.png"/></td>
-    <td><img src="./images/internet/CLHE/b0005.png"/></td>
+    <td><img src="./images/Internet/Input/b0005.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0005.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0005.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0005.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0008.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0008.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0008.png"/></td>
-    <td><img src="./images/internet/CLHE/b0008.png"/></td>
+    <td><img src="./images/Internet/Input/b0008.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0008.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0008.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0008.png"/></td>
   </tr>
 
   <tr>
-    <td><img src="./images/internet/Input/b0021.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0021.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0021.png"/></td>
-    <td><img src="./images/internet/CLHE/b0021.png"/></td>
+    <td><img src="./images/Internet/Input/b0021.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0021.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0021.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0021.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0026.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0026.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0026.png"/></td>
-    <td><img src="./images/internet/CLHE/b0026.png"/></td>
+    <td><img src="./images/Internet/Input/b0026.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0026.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0026.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0026.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0028.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0028.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0028.png"/></td>
-    <td><img src="./images/internet/CLHE/b0028.png"/></td>
+    <td><img src="./images/Internet/Input/b0028.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0028.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0028.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0028.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0029.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0029.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0029.png"/></td>
-    <td><img src="./images/internet/CLHE/b0029.png"/></td>
+    <td><img src="./images/Internet/Input/b0029.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0029.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0029.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0029.png"/></td>
   </tr>
   <tr>
-    <td><img src="./images/internet/Input/b0033.png"/></td> 
-    <td><img src="./images/internet/Our_HDR/b0033.png"/></td>
-    <td><img src="./images/internet/DPED_iPhone7/b0033.png"/></td>
-    <td><img src="./images/internet/CLHE/b0033.png"/></td>
+    <td><img src="./images/Internet/Input/b0033.png"/></td> 
+    <td><img src="./images/Internet/Our_HDR/b0033.png"/></td>
+    <td><img src="./images/Internet/DPED_iPhone7/b0033.png"/></td>
+    <td><img src="./images/Internet/CLHE/b0033.png"/></td>
   </tr>
 </table>
 
 ### User study
-<center>
+
 <table>
   <tr>
      <td colspan=7 align="center"> Preference Matrix<br>
@@ -276,7 +275,6 @@ I will release all the data and code ASAP. <(_ _)>
      <th>1433</th>
   </tr>
 </table>
-</center>
 
 Our model trained on HDR images ranked the first and CLHE was the runner-up. When comparing our model with CLHE, 81% of users (323 among 400) preferred our results.
 
@@ -314,7 +312,6 @@ This paper proposes three improvements: global U-Net, adaptive WGAN (A-WGAN) and
   </tr>
 </table>
 
-<center>
 <table>
   <tr>
     <th></th>
@@ -338,9 +335,7 @@ This paper proposes three improvements: global U-Net, adaptive WGAN (A-WGAN) and
     <td colspan=4>With different λ values, WGAN-GP could succeed or fail. The proposed A-WGAN is less dependent with λ and succeeded with all three λ values.</td>
   </tr>
 </table>
-</center>
 
-<center>
 <table>
   <tr>
     <th colspan=3>Male -> Female</th>
@@ -387,10 +382,10 @@ This paper proposes three improvements: global U-Net, adaptive WGAN (A-WGAN) and
     <th><img src="./images/Others/B-ex4-woiBN.png"/></th>
   </tr>
   <tr>
-    <td colspan=6>We applied the 2-way GAN to gender change of face images. As shown in the figure, the 2-way GAN failed on the task but succeeded after employing the proposed iBN.</td>
+    <td colspan=6>We applied the 2-way GAN to gender change of face images. As shown in the figure, the 2-way GAN failed on the task but succeeded after employing the proposed iBN.
+</td>
   </tr>
 </table>
-</center>
 
 ### Architecture
 
@@ -399,21 +394,21 @@ This paper proposes three improvements: global U-Net, adaptive WGAN (A-WGAN) and
     <th colspan=2>Generator</th>
   </tr>
   <tr>
-    <th colspan=2><img src="./images/Architecture/netG.pdf"/></th>
+    <th colspan=2><img src="./images/Architecture/netG.png"/></th>
   </tr>
   <tr>
     <th colspan=2>Discriminator</th>
   </tr>
   <tr>
-    <th colspan=2><img src="./images/Architecture/netD.pdf"/></th>
+    <th colspan=2><img src="./images/Architecture/netD.png"/></th>
   </tr>
   <tr>
     <th>1-way GAN</th>
     <th>2-way GAN</th>
   </tr>
   <tr>
-    <th><img src="./images/Architecture/1-way-GAN.pdf"/></th>
-    <th><img src="./images/Architecture/2-way-GAN.pdf"/></th>
+    <th><img src="./images/Architecture/1-way-GAN.png"/></th>
+    <th><img src="./images/Architecture/2-way-GAN.png"/></th>
   </tr>
 </table>
 
