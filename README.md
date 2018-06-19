@@ -1,6 +1,6 @@
 # Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs
 
-### [[Demo website]](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/) [[Youtube]](https://www.youtube.com/watch?v=d7OXb2sqoec) [[Paper]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf) [[Supplementary]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf)
+### [[Demo website]](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/) [[Youtube]](https://www.youtube.com/watch?v=d7OXb2sqoec) [[Paper]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf) [[Supplementary]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf) [[Spotlight Presentation]](https://www.youtube.com/watch?v=7y-zyzJXxxI)
 
 <p align="center">
 <img src="./images/teaser.png" width="80%"/>
@@ -10,7 +10,7 @@
 </p>
 TensorFlow implementation of the CVPR 2018 spotlight paper, Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs. If you use any code or data from our work, please cite our paper.
 
-I will release all the data and code ASAP. <(_ _)>
+### I will release all the data and code ASAP. <(_ _)>
 
 ### Results
 
