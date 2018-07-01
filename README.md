@@ -1,6 +1,7 @@
 # Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs
 
-### [[Demo website]](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/) [[Youtube]](https://www.youtube.com/watch?v=d7OXb2sqoec) [[Paper]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf) [[Supplementary]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf) [[Spotlight Presentation]](https://www.youtube.com/watch?v=7y-zyzJXxxI) [[Poster]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-poster-compress.pdf)
+### [[Demo website]](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/) [[Youtube]](https://www.youtube.com/watch?v=d7OXb2sqoec) [[Paper]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE.pdf) [[Supplementary]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-sm-compress.pdf)
+### [[Spotlight Presentation-video]](https://www.youtube.com/watch?v=7y-zyzJXxxI) [[Spotlight Presentation-pdf]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-spotlight-compress.pdf) [[Poster]](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/CVPR-2018-DPE-poster-compress.pdf)
 
 <p align="center">
 <img src="./images/teaser.png" width="80%"/>
