@@ -432,7 +432,7 @@ Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs wi
 	YEAR      = {2018},
 	MONTH     = {June},
 	BOOKTITLE = {Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018)},
-	PAGES     = {to appear},
+	PAGES     = {6306--6314},
 	LOCATION  = {Salt Lake City},
 }
 ```
