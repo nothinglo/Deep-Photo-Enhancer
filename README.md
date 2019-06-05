@@ -14,6 +14,9 @@
 </p>
 TensorFlow implementation of the CVPR 2018 spotlight paper, Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs. If you use any code or data from our work, please cite our paper.
 
+### [Update Jun. 05, 2019] Rename Model script
+I add the `rename_model.py` to the download link below.
+
 ### [Update Mar. 31, 2019] Inference Models (Supervsied and Unsupervised).
 Download link: [here](https://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/[Online_Demo_Models]_Deep-Photo-Enhancer.zip). The code is exactly the same I used in my demo website. (Sorry, I do not have time to polish it...)
 Simplified tutorial: Using the function `getInputPhoto` and `processImg` in the `TF.py`
